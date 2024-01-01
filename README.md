@@ -5,7 +5,7 @@
 ![Learning](https://t3.ftcdn.net/jpg/06/14/01/52/360_F_614015247_EWZHvC6AAOsaIOepakhyJvMqUu5tpLfY.jpg)
 
 
-# <b>1 <span style='color:#78D118'>|</span> Overview</b>
+# <b><span style='color:#78D118'>|</span> Overview</b>
 
 In this notebook we're going to create AI systems:
 - `DataScienceAI` will take the form of an LLM-based agent that will be tasked with performing data science tasks on data that will be stored in a vector database using ChromaDB. We will use LangChain agents as well as the ChromaDB library, as well as the Pandas Dataframe Agent and python REPL (Read-Eval-Print Loop) tool.
